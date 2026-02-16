@@ -1,23 +1,3 @@
-## 🛠️ Tech Stack
-
-**Frontend**
-- HTML, CSS, JavaScript  
-- React, React Router  
-- Tailwind CSS  
-
-**Tools & Platforms**
-- Git & GitHub  
-- Vite  
-- Figma  
-- npm  
-
-**Currently Learning**
-- TypeScript  
-- Advanced React Patterns  
-- Data Structures & Algorithms  
-
----
-
 ## 🚀 Featured Project
 
 ### 🔍 AI Resume Analyzer
@@ -40,3 +20,5 @@ An AI-powered web application that analyzes resumes, provides ATS scores, and gi
 - Zustand
 
 ---
+
+Future updates regarding UI might be implemented.
